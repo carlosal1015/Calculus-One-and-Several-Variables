@@ -16,6 +16,9 @@ int main ()
         case 'o':
         case 'u':
             cout << "Es una vocal \n" << endl;
+            break;
+        default:
+            cout << "Es una consonante" << endl;
     }
     system("pause");
     return 0;
