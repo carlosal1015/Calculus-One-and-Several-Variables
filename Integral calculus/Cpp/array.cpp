@@ -4,14 +4,18 @@ using namespace std;
 
 int main ()
 {
-    char c[4]
-    c[0] = 'H';
-    c[1] = 'o';
-    c[2] = 'l';
-    c[3] = 'a';
+    char c[6]
+    c[0] = '¡'
+    c[1] = 'H';
+    c[2] = 'o';
+    c[3] = 'l';
+    c[4] = 'a';
+    c[5] = '!';
     
-    
-    for (int i=0; i<4; i++)
-    cin.get;
+    for (int i=0; i<6; i++)
+    {
+        cout << c[i] << endl;
+    }
+    cin.get();
     return 0;
 }
