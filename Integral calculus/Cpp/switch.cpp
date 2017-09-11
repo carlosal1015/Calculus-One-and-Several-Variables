@@ -18,7 +18,7 @@ int main ()
             cout << "Es una vocal \n" << endl;
             break;
         default:
-            cout << "Es una consonante" << endl;
+            cout << "Es una consonante \n" << endl;
     }
     system("pause");
     return 0;
