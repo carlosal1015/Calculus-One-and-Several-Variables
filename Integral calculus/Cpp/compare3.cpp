@@ -4,7 +4,7 @@
 using namespace std;
 bool compare;
 
-int number1 = 12;
+int number1 = 11;
 int number2 = 12;
 
 int main ()
