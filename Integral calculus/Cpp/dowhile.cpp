@@ -9,7 +9,7 @@ int main ()
   {
       cout << i << endl;
       i++;
-  }while(i <= 5)
+  }while(i <= 5);
   cin.get();
   return 0;
 }
