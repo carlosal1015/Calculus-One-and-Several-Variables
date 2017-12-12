@@ -13,5 +13,10 @@ Sage is free, open-source math software that supports research and teaching alge
 ### Installation
 
 SageMath requires [./sage](https://sagemath.org/) to run.
+```sh
+$ cd SageMath
+$ ./sage -upgrade
+$ ./sage -v
+```
 
 **Free Software, Yeah!**
