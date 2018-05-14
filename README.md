@@ -1,6 +1,5 @@
 # Calculus: One and Several Variables
 
-- [x] Differential calculus :orange_book: Spring 2016 _Professor: MSc. Jorge Enrique Mayta Guillermo._ :clock10: :clock12: :e-mail: jorgemayta@gmail.com<br /> 
-- [x] Integral calculus :notebook_with_decorative_cover: Fall 2017 _Professor: Richard Acuña._ :clock10: :clock12: :e-mail: acuna2002@hotmail.com
-- [x] Integral calculus :notebook_with_decorative_cover: Winter 2017 _Professor: MSc.x2 Johnny Valverde Montoro._ :clock6: :clock8: :e-mail: jmvfox@gmail.com
-- [ ] Advanced differential and integral calculus :closed_book: Fall 2018 PhD. Luis Luyo Flores :e-mail: XYZW@uni.pe
+- [x] [Differential calculus](https://github.com/carlosal1015/Calculus-One-and-Several-Variables/tree/master/Differential%20calculus)
+- [x] [Integral calculus](https://github.com/carlosal1015/Calculus-One-and-Several-Variables/tree/master/Integral%20calculus)
+- [ ] [Advanced differential and integral calculus](https://github.com/carlosal1015/Calculus-One-and-Several-Variables/tree/master/Advanced%20differential%20and%20integral%20calculus)
